@@ -1,0 +1,8 @@
+*.pyc
+*.csv
+*.jl
+*.json
+*.log
+*.out
+*.scrapy
+*.swp
